@@ -16,14 +16,14 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>1528studio.wangcai</string>
+				<key>title</key>
+				<string>旺财</string>
 				<key>bundle-version</key>
 				<string>1.8</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>title</key>
-				<string></string>
+				<key>bundle-identifier</key>
+				<string>1528studio.wangcai</string>
 			</dict>
 		</dict>
 	</array>
